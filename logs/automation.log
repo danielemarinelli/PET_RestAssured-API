@@ -1,0 +1,260 @@
+10:43:43.876 [main] INFO  api.test.UserTests - ********** Creating User ***************
+10:43:46.569 [main] INFO  api.test.UserTests - ********** Fetching User ***************
+10:43:47.193 [main] INFO  api.test.UserTests - ********** User Displayed ***************
+10:43:47.199 [main] INFO  api.test.UserTests - ********** Updating User ***************
+10:43:47.797 [main] INFO  api.test.UserTests - ********** User updated ***************
+10:43:48.383 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+10:43:48.997 [main] INFO  api.test.UserTests - ********** User deleted ***************
+13:02:00.359 [main] INFO  api.test.UserTests - ********** Creating User ***************
+13:02:02.874 [main] INFO  api.test.UserTests - **********  User Created ***************
+13:02:02.894 [main] INFO  api.test.UserTests - ********** Fetching User ***************
+13:02:03.501 [main] INFO  api.test.UserTests - ********** User Displayed ***************
+13:02:03.505 [main] INFO  api.test.UserTests - ********** Updating User ***************
+13:02:04.087 [main] INFO  api.test.UserTests - ********** User updated ***************
+13:02:04.656 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+13:02:05.238 [main] INFO  api.test.UserTests - ********** User deleted ***************
+13:21:58.049 [main] INFO  api.test.UserTests - ********** Creating User ***************
+13:22:00.239 [main] INFO  api.test.UserTests - **********  User Created ***************
+13:22:00.251 [main] INFO  api.test.UserTests - ********** Fetching User ***************
+13:22:00.834 [main] INFO  api.test.UserTests - ********** User Displayed ***************
+13:22:00.838 [main] INFO  api.test.UserTests - ********** Updating User ***************
+13:22:01.398 [main] INFO  api.test.UserTests - ********** User updated ***************
+13:22:01.981 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+13:22:02.559 [main] INFO  api.test.UserTests - ********** User deleted ***************
+13:22:02.604 [main] INFO  api.test.UserTestsFromPropFile - ********** Creating User ***************
+13:22:03.185 [main] INFO  api.test.UserTestsFromPropFile - **********  User Created ***************
+13:22:03.189 [main] INFO  api.test.UserTestsFromPropFile - ********** Fetching User ***************
+13:22:03.764 [main] INFO  api.test.UserTestsFromPropFile - ********** User Displayed ***************
+13:22:03.767 [main] INFO  api.test.UserTestsFromPropFile - ********** Updating User ***************
+13:22:04.346 [main] INFO  api.test.UserTestsFromPropFile - ********** User updated ***************
+13:22:04.920 [main] INFO  api.test.UserTestsFromPropFile - **********   Deleting User  ***************
+13:22:05.485 [main] INFO  api.test.UserTestsFromPropFile - ********** User deleted ***************
+13:22:05.491 [main] INFO  api.test.StoreTests - ############# Store Inverntory launched #############
+13:22:06.085 [main] INFO  api.test.StoreTests - ############# Store Inverntory end  #############
+13:22:06.088 [main] INFO  api.test.StoreTests - ############# Place Store Order #############
+13:22:06.667 [main] INFO  api.test.StoreTests - ############# Placed Store Order! #############
+13:22:06.669 [main] INFO  api.test.StoreTests - ############# Get Store Order #############
+13:22:07.290 [main] INFO  api.test.StoreTests - ############# Store Order Displayed #############
+13:22:07.291 [main] INFO  api.test.StoreTests - ############# Delete Store Order #############
+13:22:07.895 [main] INFO  api.test.StoreTests - ############# Deleted Store Order! #############
+13:22:07.898 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Inverntory launched #############
+13:22:08.492 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Inverntory end  #############
+13:22:08.494 [main] INFO  api.test.StoreTestsFromPropFile - ############# Place Store Order #############
+13:22:09.079 [main] INFO  api.test.StoreTestsFromPropFile - ############# Placed Store Order! #############
+13:22:09.081 [main] INFO  api.test.StoreTestsFromPropFile - ############# Get Store Order #############
+13:22:09.718 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Order Displayed #############
+13:22:09.720 [main] INFO  api.test.StoreTestsFromPropFile - ############# Delete Store Order #############
+13:22:10.307 [main] INFO  api.test.StoreTestsFromPropFile - ############# Deleted Store Order! #############
+14:55:03.114 [main] INFO  api.test.UserTests - ********** Creating User ***************
+14:55:05.620 [main] INFO  api.test.UserTests - **********  User Created ***************
+14:55:05.637 [main] INFO  api.test.UserTests - ********** Fetching User ***************
+14:55:06.277 [main] INFO  api.test.UserTests - ********** User Displayed ***************
+14:55:06.279 [main] INFO  api.test.UserTests - ********** Updating User ***************
+14:55:06.863 [main] INFO  api.test.UserTests - ********** User updated ***************
+14:55:07.432 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+14:55:08.012 [main] INFO  api.test.UserTests - ********** User deleted ***************
+14:55:08.059 [main] INFO  api.test.UserTestsFromPropFile - ********** Creating User ***************
+14:55:08.646 [main] INFO  api.test.UserTestsFromPropFile - **********  User Created ***************
+14:55:08.649 [main] INFO  api.test.UserTestsFromPropFile - ********** Fetching User ***************
+14:55:09.217 [main] INFO  api.test.UserTestsFromPropFile - ********** User Displayed ***************
+14:55:09.221 [main] INFO  api.test.UserTestsFromPropFile - ********** Updating User ***************
+14:55:09.805 [main] INFO  api.test.UserTestsFromPropFile - ********** User updated ***************
+14:55:10.358 [main] INFO  api.test.UserTestsFromPropFile - **********   Deleting User  ***************
+14:55:10.948 [main] INFO  api.test.UserTestsFromPropFile - ********** User deleted ***************
+14:55:10.951 [main] INFO  api.test.StoreTests - ############# Store Inverntory launched #############
+14:55:11.553 [main] INFO  api.test.StoreTests - ############# Store Inverntory end  #############
+14:55:11.555 [main] INFO  api.test.StoreTests - ############# Place Store Order #############
+14:55:12.152 [main] INFO  api.test.StoreTests - ############# Placed Store Order! #############
+14:55:12.155 [main] INFO  api.test.StoreTests - ############# Get Store Order #############
+14:55:12.783 [main] INFO  api.test.StoreTests - ############# Store Order Displayed #############
+14:55:12.788 [main] INFO  api.test.StoreTests - ############# Delete Store Order #############
+14:55:13.380 [main] INFO  api.test.StoreTests - ############# Deleted Store Order! #############
+14:55:13.383 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Inventory launched #############
+14:55:13.965 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Inverntory end  #############
+14:55:13.971 [main] INFO  api.test.StoreTestsFromPropFile - ############# Place Store Order #############
+14:55:14.556 [main] INFO  api.test.StoreTestsFromPropFile - ############# Placed Store Order! #############
+14:55:14.559 [main] INFO  api.test.StoreTestsFromPropFile - ############# Get Store Order #############
+14:55:15.148 [main] INFO  api.test.StoreTestsFromPropFile - ############# Delete Store Order #############
+14:57:58.789 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Inventory launched #############
+14:58:00.475 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Inverntory end  #############
+14:58:00.489 [main] INFO  api.test.StoreTestsFromPropFile - ############# Place Store Order #############
+14:58:01.281 [main] INFO  api.test.StoreTestsFromPropFile - ############# Placed Store Order! #############
+14:58:01.285 [main] INFO  api.test.StoreTestsFromPropFile - ############# Get Store Order #############
+14:58:01.916 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Order Displayed #############
+14:58:01.919 [main] INFO  api.test.StoreTestsFromPropFile - ############# Delete Store Order #############
+14:58:02.486 [main] INFO  api.test.StoreTestsFromPropFile - ############# Deleted Store Order! #############
+15:02:11.774 [main] INFO  api.test.UserTests - ********** Creating User ***************
+15:02:15.589 [main] INFO  api.test.UserTests - **********  User Created ***************
+15:02:15.602 [main] INFO  api.test.UserTests - ********** Fetching User ***************
+15:02:16.198 [main] INFO  api.test.UserTests - ********** User Displayed ***************
+15:02:16.205 [main] INFO  api.test.UserTests - ********** Updating User ***************
+15:02:16.783 [main] INFO  api.test.UserTests - ********** User updated ***************
+15:02:17.359 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+15:02:17.977 [main] INFO  api.test.UserTests - ********** User deleted ***************
+15:02:18.021 [main] INFO  api.test.UserTestsFromPropFile - ********** Creating User ***************
+15:02:18.621 [main] INFO  api.test.UserTestsFromPropFile - **********  User Created ***************
+15:02:18.624 [main] INFO  api.test.UserTestsFromPropFile - ********** Fetching User ***************
+15:02:19.356 [main] INFO  api.test.UserTestsFromPropFile - ********** User Displayed ***************
+15:02:19.359 [main] INFO  api.test.UserTestsFromPropFile - ********** Updating User ***************
+15:02:19.935 [main] INFO  api.test.UserTestsFromPropFile - ********** User updated ***************
+15:02:20.518 [main] INFO  api.test.UserTestsFromPropFile - **********   Deleting User  ***************
+15:02:21.088 [main] INFO  api.test.UserTestsFromPropFile - ********** User deleted ***************
+15:02:21.093 [main] INFO  api.test.StoreTests - ############# Store Inverntory launched #############
+15:02:21.677 [main] INFO  api.test.StoreTests - ############# Store Inverntory end  #############
+15:02:21.684 [main] INFO  api.test.StoreTests - ############# Place Store Order #############
+15:02:22.275 [main] INFO  api.test.StoreTests - ############# Placed Store Order! #############
+15:02:22.278 [main] INFO  api.test.StoreTests - ############# Get Store Order #############
+15:02:22.899 [main] INFO  api.test.StoreTests - ############# Store Order Displayed #############
+15:02:22.902 [main] INFO  api.test.StoreTests - ############# Delete Store Order #############
+15:02:23.458 [main] INFO  api.test.StoreTests - ############# Deleted Store Order! #############
+15:02:23.463 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Inventory launched #############
+15:02:24.063 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Inverntory end  #############
+15:02:24.067 [main] INFO  api.test.StoreTestsFromPropFile - ############# Place Store Order #############
+15:02:24.642 [main] INFO  api.test.StoreTestsFromPropFile - ############# Placed Store Order! #############
+15:02:24.645 [main] INFO  api.test.StoreTestsFromPropFile - ############# Get Store Order #############
+15:02:25.416 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Order Displayed #############
+15:02:25.420 [main] INFO  api.test.StoreTestsFromPropFile - ############# Delete Store Order #############
+15:02:25.998 [main] INFO  api.test.StoreTestsFromPropFile - ############# Deleted Store Order! #############
+15:20:52.422 [main] INFO  api.test.StoreTests - ############# Store Inverntory launched #############
+15:20:54.248 [main] INFO  api.test.StoreTests - ############# Store Inverntory end  #############
+15:20:54.252 [main] INFO  api.test.StoreTests - ############# Place Store Order #############
+15:20:55.104 [main] INFO  api.test.StoreTests - ############# Placed Store Order! #############
+15:20:55.105 [main] INFO  api.test.StoreTests - ############# Get Store Order #############
+15:20:55.706 [main] INFO  api.test.StoreTests - ############# Store Order Displayed #############
+15:20:55.709 [main] INFO  api.test.StoreTests - ############# Delete Store Order #############
+15:20:56.290 [main] INFO  api.test.StoreTests - ############# Deleted Store Order! #############
+15:20:56.445 [main] INFO  api.test.UserTests - ********** Creating User ***************
+15:20:57.464 [main] INFO  api.test.UserTests - **********  User Created ***************
+15:20:57.466 [main] INFO  api.test.UserTests - ********** Fetching User ***************
+15:20:58.050 [main] INFO  api.test.UserTests - ********** User Displayed ***************
+15:20:58.051 [main] INFO  api.test.UserTests - ********** Updating User ***************
+15:20:58.651 [main] INFO  api.test.UserTests - ********** User updated ***************
+15:20:59.246 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+15:20:59.833 [main] INFO  api.test.UserTests - ********** User deleted ***************
+15:24:02.977 [main] INFO  api.test.UserTests - ********** Creating User ***************
+15:24:05.719 [main] INFO  api.test.UserTests - **********  User Created ***************
+15:24:05.735 [main] INFO  api.test.UserTests - ********** Fetching User ***************
+15:24:06.328 [main] INFO  api.test.UserTests - ********** User Displayed ***************
+15:24:06.334 [main] INFO  api.test.UserTests - ********** Updating User ***************
+15:24:06.925 [main] INFO  api.test.UserTests - ********** User updated ***************
+15:24:07.512 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+15:24:08.104 [main] INFO  api.test.UserTests - ********** User deleted ***************
+15:24:08.163 [main] INFO  api.test.UserTestsFromPropFile - ********** Creating User ***************
+15:24:08.779 [main] INFO  api.test.UserTestsFromPropFile - **********  User Created ***************
+15:24:08.783 [main] INFO  api.test.UserTestsFromPropFile - ********** Fetching User ***************
+15:24:09.361 [main] INFO  api.test.UserTestsFromPropFile - ********** User Displayed ***************
+15:24:09.366 [main] INFO  api.test.UserTestsFromPropFile - ********** Updating User ***************
+15:24:10.482 [main] INFO  api.test.UserTestsFromPropFile - ********** User updated ***************
+15:24:11.103 [main] INFO  api.test.UserTestsFromPropFile - **********   Deleting User  ***************
+15:24:11.660 [main] INFO  api.test.UserTestsFromPropFile - ********** User deleted ***************
+15:24:11.665 [main] INFO  api.test.StoreTests - ############# Store Inverntory launched #############
+15:24:12.226 [main] INFO  api.test.StoreTests - ############# Store Inverntory end  #############
+15:24:12.231 [main] INFO  api.test.StoreTests - ############# Place Store Order #############
+15:24:12.866 [main] INFO  api.test.StoreTests - ############# Placed Store Order! #############
+15:24:12.872 [main] INFO  api.test.StoreTests - ############# Get Store Order #############
+15:24:13.505 [main] INFO  api.test.StoreTests - ############# Store Order Displayed #############
+15:24:13.512 [main] INFO  api.test.StoreTests - ############# Delete Store Order #############
+15:24:14.125 [main] INFO  api.test.StoreTests - ############# Deleted Store Order! #############
+15:24:14.132 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Inventory launched #############
+15:24:14.755 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Inverntory end  #############
+15:24:14.776 [main] INFO  api.test.StoreTestsFromPropFile - ############# Place Store Order #############
+15:24:15.357 [main] INFO  api.test.StoreTestsFromPropFile - ############# Placed Store Order! #############
+15:24:15.359 [main] INFO  api.test.StoreTestsFromPropFile - ############# Get Store Order #############
+15:24:15.962 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Order Displayed #############
+15:24:15.966 [main] INFO  api.test.StoreTestsFromPropFile - ############# Delete Store Order #############
+15:24:16.539 [main] INFO  api.test.StoreTestsFromPropFile - ############# Deleted Store Order! #############
+16:21:12.169 [main] INFO  api.test.UserTests - ********** Creating User ***************
+16:21:15.003 [main] INFO  api.test.UserTests - **********  User Created ***************
+16:21:15.014 [main] INFO  api.test.UserTests - ********** Fetching User ***************
+16:21:15.600 [main] INFO  api.test.UserTests - ********** User Displayed ***************
+16:21:15.604 [main] INFO  api.test.UserTests - ********** Updating User ***************
+16:21:16.171 [main] INFO  api.test.UserTests - ********** User updated ***************
+16:21:16.755 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+16:21:17.315 [main] INFO  api.test.UserTests - ********** User deleted ***************
+16:21:17.391 [main] INFO  api.test.UserTestsFromPropFile - ********** Creating User ***************
+16:21:18.033 [main] INFO  api.test.UserTestsFromPropFile - **********  User Created ***************
+16:21:18.034 [main] INFO  api.test.UserTestsFromPropFile - ********** Fetching User ***************
+16:21:18.609 [main] INFO  api.test.UserTestsFromPropFile - ********** User Displayed ***************
+16:21:18.610 [main] INFO  api.test.UserTestsFromPropFile - ********** Updating User ***************
+16:21:19.168 [main] INFO  api.test.UserTestsFromPropFile - ********** User updated ***************
+16:21:19.726 [main] INFO  api.test.UserTestsFromPropFile - **********   Deleting User  ***************
+16:21:20.309 [main] INFO  api.test.UserTestsFromPropFile - ********** User deleted ***************
+16:21:20.311 [main] INFO  api.test.StoreTests - ############# Store Inverntory launched #############
+16:21:20.902 [main] INFO  api.test.StoreTests - ############# Store Inverntory end  #############
+16:21:20.904 [main] INFO  api.test.StoreTests - ############# Place Store Order #############
+16:21:21.489 [main] INFO  api.test.StoreTests - ############# Placed Store Order! #############
+16:21:21.491 [main] INFO  api.test.StoreTests - ############# Get Store Order #############
+16:21:22.057 [main] INFO  api.test.StoreTests - ############# Store Order Displayed #############
+16:21:22.059 [main] INFO  api.test.StoreTests - ############# Delete Store Order #############
+16:21:22.637 [main] INFO  api.test.StoreTests - ############# Deleted Store Order! #############
+16:21:22.639 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Inventory launched #############
+16:21:23.236 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Inventory end  #############
+16:21:23.240 [main] INFO  api.test.StoreTestsFromPropFile - ############# Place Store Order #############
+16:21:23.823 [main] INFO  api.test.StoreTestsFromPropFile - ############# Placed Store Order! #############
+16:21:23.826 [main] INFO  api.test.StoreTestsFromPropFile - ############# Get Store Order #############
+16:21:24.468 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Order Displayed #############
+16:21:24.469 [main] INFO  api.test.StoreTestsFromPropFile - ############# Delete Store Order #############
+16:21:25.163 [main] INFO  api.test.StoreTestsFromPropFile - ############# Deleted Store Order! #############
+17:47:22.594 [main] INFO  api.test.UserTests - ********** Creating User ***************
+17:47:25.157 [main] INFO  api.test.UserTests - **********  User Created ***************
+17:47:25.167 [main] INFO  api.test.UserTests - ********** Fetching User ***************
+17:47:25.773 [main] INFO  api.test.UserTests - ********** User Displayed ***************
+17:47:25.775 [main] INFO  api.test.UserTests - ********** Updating User ***************
+17:47:26.347 [main] INFO  api.test.UserTests - ********** User updated ***************
+17:47:26.948 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+17:47:27.522 [main] INFO  api.test.UserTests - ********** User deleted ***************
+17:47:27.567 [main] INFO  api.test.UserTestsFromPropFile - ********** Creating User ***************
+17:47:28.176 [main] INFO  api.test.UserTestsFromPropFile - **********  User Created ***************
+17:47:28.177 [main] INFO  api.test.UserTestsFromPropFile - ********** Fetching User ***************
+17:47:28.752 [main] INFO  api.test.UserTestsFromPropFile - ********** User Displayed ***************
+17:47:28.754 [main] INFO  api.test.UserTestsFromPropFile - ********** Updating User ***************
+17:47:29.304 [main] INFO  api.test.UserTestsFromPropFile - ********** User updated ***************
+17:47:29.864 [main] INFO  api.test.UserTestsFromPropFile - **********   Deleting User  ***************
+17:47:30.421 [main] INFO  api.test.UserTestsFromPropFile - ********** User deleted ***************
+17:47:30.423 [main] INFO  api.test.StoreTests - ############# Store Inverntory launched #############
+17:47:30.959 [main] INFO  api.test.StoreTests - ############# Store Inverntory end  #############
+17:47:30.961 [main] INFO  api.test.StoreTests - ############# Place Store Order #############
+17:47:31.531 [main] INFO  api.test.StoreTests - ############# Placed Store Order! #############
+17:47:31.533 [main] INFO  api.test.StoreTests - ############# Get Store Order #############
+17:47:32.083 [main] INFO  api.test.StoreTests - ############# Store Order Displayed #############
+17:47:32.084 [main] INFO  api.test.StoreTests - ############# Delete Store Order #############
+17:47:32.628 [main] INFO  api.test.StoreTests - ############# Deleted Store Order! #############
+17:47:32.630 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Inventory launched #############
+17:47:33.221 [main] INFO  api.test.StoreTestsFromPropFile - ############# Store Inventory end  #############
+17:47:33.224 [main] INFO  api.test.StoreTestsFromPropFile - ############# Place Store Order #############
+17:47:33.766 [main] INFO  api.test.StoreTestsFromPropFile - ############# Placed Store Order! #############
+17:47:33.768 [main] INFO  api.test.StoreTestsFromPropFile - ############# Get Store Order #############
+17:47:34.358 [main] INFO  api.test.StoreTestsFromPropFile - ############# Delete Store Order #############
+17:49:47.433 [main] INFO  api.test.PetTests - ********** Fetching PetByStatus ***************
+17:49:49.181 [main] INFO  api.test.PetTests - ********** PetByStatus Displayed ***************
+17:53:51.387 [main] INFO  api.test.PetTests - ********** Fetching PetByStatus ***************
+17:53:53.334 [main] INFO  api.test.PetTests - ********** PetByStatus Displayed ***************
+17:57:45.046 [main] INFO  api.test.PetTests - ********** Fetching PetByStatus ***************
+17:57:47.060 [main] INFO  api.test.PetTests - ********** PetByStatus Displayed ***************
+09:30:30.967 [main] INFO  api.test.PetTests - %%%%%%%% Fetching PetByStatus %%%%%%%%
+09:30:33.217 [main] INFO  api.test.PetTests - %%%%%%%% PetByStatus Displayed %%%%%%%%
+09:30:33.263 [main] INFO  api.test.PetTests - %%%%%%%% Fetching Pet By Id %%%%%%%%
+09:30:33.879 [main] INFO  api.test.PetTests - %%%%%%%% Pet By Id Displayed %%%%%%%%
+09:38:59.432 [main] INFO  api.test.PetTests - %%%%%%%% Fetching PetByStatus %%%%%%%%
+09:39:01.437 [main] INFO  api.test.PetTests - %%%%%%%% PetByStatus Displayed %%%%%%%%
+09:39:01.455 [main] INFO  api.test.PetTests - %%%%%%%% Fetching Pet By Id %%%%%%%%
+09:39:02.040 [main] INFO  api.test.PetTests - %%%%%%%% Pet By Id Displayed %%%%%%%%
+09:53:58.621 [main] INFO  api.test.PetTests - %%%%%%%% Fetching PetByStatus %%%%%%%%
+09:54:01.261 [main] INFO  api.test.PetTests - %%%%%%%% PetByStatus Displayed %%%%%%%%
+09:54:01.276 [main] INFO  api.test.PetTests - %%%%%%%% Fetching Pet By Id %%%%%%%%
+09:54:02.122 [main] INFO  api.test.PetTests - %%%%%%%% Pet By Id Displayed %%%%%%%%
+09:55:44.953 [main] INFO  api.test.PetTests - %%%%%%%% Fetching PetByStatus %%%%%%%%
+09:55:47.348 [main] INFO  api.test.PetTests - %%%%%%%% PetByStatus Displayed %%%%%%%%
+09:55:47.361 [main] INFO  api.test.PetTests - %%%%%%%% Fetching Pet By Id %%%%%%%%
+09:55:47.964 [main] INFO  api.test.PetTests - %%%%%%%% Pet By Id Displayed %%%%%%%%
+12:21:10.530 [main] INFO  api.test.PetTests - %%%%%%%% Fetching PetByStatus %%%%%%%%
+12:21:12.766 [main] INFO  api.test.PetTests - %%%%%%%% PetByStatus Displayed %%%%%%%%
+12:21:12.793 [main] INFO  api.test.PetTests - %%%%%%%% Fetching Pet By Id %%%%%%%%
+12:21:13.392 [main] INFO  api.test.PetTests - %%%%%%%% Pet By Id Displayed %%%%%%%%
+13:11:07.314 [main] INFO  api.test.PetTests - %%%%%%%% Fetching PetByStatus %%%%%%%%
+13:11:09.604 [main] INFO  api.test.PetTests - %%%%%%%% PetByStatus Displayed %%%%%%%%
+13:11:09.629 [main] INFO  api.test.PetTests - %%%%%%%% Fetching Pet By Id %%%%%%%%
+13:21:50.671 [main] INFO  api.test.PetTests - %%%%%%%% Fetching PetByStatus %%%%%%%%
+13:21:52.859 [main] INFO  api.test.PetTests - %%%%%%%% PetByStatus Displayed %%%%%%%%
+13:21:52.889 [main] INFO  api.test.PetTests - %%%%%%%% Fetching Pet By Id %%%%%%%%
+13:21:53.477 [main] INFO  api.test.PetTests - %%%%%%%% Pet By Id Displayed %%%%%%%%
