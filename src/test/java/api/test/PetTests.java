@@ -79,9 +79,9 @@ public class PetTests {
 		logger.info("%%%%%%%% Fetching Pet By Id %%%%%%%%");
 		Response response=UserEndPointsFromPropertiesFile.getSinglePet(this.pet.getId());
 		response.then().log().all();
-		System.out.println("Pet ID selected: "+this.pet.getId());
+		/*System.out.println("Pet ID selected: "+this.pet.getId());
 		System.out.println(this.pet.getCategory().getId());
-		System.out.println(this.pet.getCategory().getName());
+		System.out.println(this.pet.getCategory().getName());*/
 		
 		Assert.assertEquals(response.getStatusCode(),200);	
 		Assert.assertEquals(response.header("Content-Type"),"application/json");
@@ -92,7 +92,34 @@ public class PetTests {
 		
 		int idPet=response.jsonPath().get("id");
 		Assert.assertEquals(idPet,this.pet.getId());
-		System.out.println(response.jsonPath().get("tags[0].name").toString());
+		//System.out.println(response.jsonPath().get("tags[0].name").toString());
 	}
+	
+	
+	@Test(priority=3)
+	public void testPostUser()
+	{
+		logger.info("%%%%%%%% Creating Pet %%%%%%%%");
+		Response response=UserEndPointsFromPropertiesFile.createPet(pet);
+		response.then()
+			.statusCode(200)
+			//.body("type",equalTo("unknown"))
+			.log().all();
+		
+		Assert.assertEquals(response.getStatusCode(),200);
+		Assert.assertEquals(response.header("Content-Type"),"application/json");
+		Assert.assertEquals(response.header("Access-Control-Allow-Methods"),"GET, POST, DELETE, PUT");
+		Assert.assertEquals(response.header("access-control-allow-origin"),"*");
+		Assert.assertEquals(response.header("Access-Control-Allow-Headers"),"Content-Type, api_key, Authorization");
+		Assert.assertEquals(response.header("Server"),"Jetty(9.2.9.v20150224)");
+		
+		String petName=response.jsonPath().get("name").toString();
+		System.out.println("Pet name created is: "+petName);
+		Assert.assertEquals(pet.getName(),petName);
+		Assert.assertEquals(cate.getName(),response.jsonPath().get("category.name").toString());
+		System.out.println("Pet CATEGORY name is: "+response.jsonPath().get("category.name").toString());
+		logger.info("%%%%%%%%  Pet Created %%%%%%%%");
+	}
+	
 
 }

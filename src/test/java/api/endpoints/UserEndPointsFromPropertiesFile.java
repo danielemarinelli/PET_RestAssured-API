@@ -4,6 +4,7 @@ import static io.restassured.RestAssured.given;
 
 import java.util.ResourceBundle;
 
+import api.payload.Pet;
 import api.payload.Store;
 import api.payload.User;
 import io.restassured.http.ContentType;
@@ -154,5 +155,20 @@ public class UserEndPointsFromPropertiesFile {
 						.get(get_Pet);
 			return response;
 		}
+		
+		public static Response createPet(Pet petPayload)
+		{       //get the value of 'post_url' from routes properties file stored in /resources 
+			String create_pet=getURL().getString("post_pet");
+						
+			Response response=given()
+				.contentType(ContentType.JSON)
+				.accept(ContentType.JSON)
+				.body(petPayload)
+			.when()
+				.post(create_pet);
+				
+			return response;
+		}
+		
 		
 }
