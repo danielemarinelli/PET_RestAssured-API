@@ -3,6 +3,7 @@ package api.test;
 import static org.hamcrest.Matchers.equalTo;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 import java.util.Random;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -23,12 +24,9 @@ public class PetTests {
 	Faker faker;
 	Pet pet;
 	Category cate;
-	Tag tag;
+	Tag[] tag;
 	public Logger logger;
 	int petIdToSearch;
-	//List<Tag> allTags;
-	
-	ArrayList<Tag> allTags = new ArrayList<>();
 	
 	@BeforeClass
 	public void setupData(){
@@ -37,23 +35,24 @@ public class PetTests {
 		faker=new Faker();
 		pet=new Pet();
 		cate=new Category();
-		tag=new Tag();
-		
+		tag=new Tag[1];
 		// to understand the PET payload consider
 		//web site https://jsonformatter.com
 		int upperbound = 15;
-		int int_random = random.nextInt(upperbound);
-		pet.setId(int_random);
+		int num_random = random.nextInt(upperbound);
+		int num_random_for_tag = random.nextInt(upperbound);
+		pet.setId(num_random);
 		pet.setCategory(cate);
 		cate.setName(faker.name().username());
 		cate.setId(faker.idNumber().hashCode());
 		pet.setName(faker.name().firstName());
 		pet.setPhotoUrls(null);
-		pet.setTags(allTags);
-		
-		//Must pass a list of tags (TO BE DEVELOPED)
-		
+		tag[0]=new Tag();
+		tag[0].setIdTag(num_random_for_tag);
+		tag[0].setNameTag("puppy");
+		pet.setTags(tag);
 		pet.setStatus("available");
+		
 		//logs
 		logger=LogManager.getLogger(this.getClass());
 	}
@@ -93,6 +92,7 @@ public class PetTests {
 		
 		int idPet=response.jsonPath().get("id");
 		Assert.assertEquals(idPet,this.pet.getId());
+		System.out.println(response.jsonPath().get("tags[0].name").toString());
 	}
 
 }

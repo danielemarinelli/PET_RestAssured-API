@@ -10,7 +10,8 @@ public class Pet {
     private Category category; // category is JSON object
     private String name;
     private List<String> photoUrls = null; //Array of strings
-    private List<Tag> tags = null;  //tag is Array of objects
+    //private List<Tag> tag = null;
+    private Tag[] tags;  //tag is Array of objects
     private String status;
     
     
@@ -38,10 +39,10 @@ public class Pet {
 	public void setPhotoUrls(List<String> photoUrls) {
 		this.photoUrls = photoUrls;
 	}
-	public List<Tag> getTags() {
+	public Tag[] getTags() {
 		return tags;
 	}
-	public void setTags(List<Tag> tags) {
+	public void setTags(Tag[] tags) {
 		this.tags = tags;
 	}
 	public String getStatus() {
@@ -50,8 +51,5 @@ public class Pet {
 	public void setStatus(String status) {
 		this.status = status;
 	}
-	
-
-
-	
+		
 }

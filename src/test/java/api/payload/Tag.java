@@ -2,20 +2,20 @@ package api.payload;
 
 public class Tag {
 
-	private Integer id;
-	private String name;
+	private Integer idtag;
+	private String nameTag;
 	
-    public Integer getId() {
-		return id;
+    public Integer getIdtag() {
+		return idtag;
 	}
-	public void setId(Integer id) {
-		this.id = id;
+	public void setIdTag(Integer idtag) {
+		this.idtag = idtag;
 	}
-	public String getName() {
-		return name;
+	public String getNameTag() {
+		return nameTag;
 	}
-	public void setName(String name) {
-		this.name = name;
+	public void setNameTag(String nameTag) {
+		this.nameTag = nameTag;
 	}
 	
 }
