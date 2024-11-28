@@ -11,8 +11,8 @@
      <class name="api.test.UserTests"/>
      <class name="api.test.UserTestsFromPropFile"/>
      <class name="api.test.StoreTests"/>
-     <class name="api.test.StoreTestsFromPropFile"/>
-      <!--<class name="api.test.DDTests"/>  -->
+     <!--<class name="api.test.StoreTestsFromPropFile"/>
+      <class name="api.test.DDTests"/>  -->
       <class name="api.test.PetTests"/>
     </classes>
   </test> <!-- PetTests -->
