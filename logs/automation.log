@@ -78,3 +78,29 @@
 17:15:41.187 [main] INFO  api.test.PetTests - %%%%%%%% Fetching Pet By Id %%%%%%%%
 17:15:41.769 [main] INFO  api.test.PetTests - %%%%%%%% Creating Pet %%%%%%%%
 17:15:42.998 [main] INFO  api.test.PetTests - %%%%%%%%  Pet Created %%%%%%%%
+18:42:52.703 [main] INFO  api.test.PetTests - %%%%%%%% Creating Pet %%%%%%%%
+18:42:55.203 [main] INFO  api.test.PetTests - %%%%%%%%  Pet Created %%%%%%%%
+10:38:21.886 [main] INFO  api.test.PetTests - %%%%%%%% Creating Pet %%%%%%%%
+10:38:24.433 [main] INFO  api.test.PetTests - %%%%%%%%  Pet Created %%%%%%%%
+11:14:47.719 [main] INFO  api.test.PetTests - %%%%%%%% Creating Pet %%%%%%%%
+11:14:50.646 [main] INFO  api.test.PetTests - %%%%%%%%  Pet Created %%%%%%%%
+11:14:50.661 [main] INFO  api.test.PetTests - ********** Updating User ***************
+11:14:50.661 [main] INFO  api.test.PetTests - **********  User Updated ***************
+11:41:39.553 [main] INFO  api.test.PetTests - %%%%%%%% Creating Pet %%%%%%%%
+11:41:42.187 [main] INFO  api.test.PetTests - %%%%%%%%  Pet Created %%%%%%%%
+13:08:09.849 [main] INFO  api.test.PetTests - %%%%%%%% Creating Pet %%%%%%%%
+13:08:12.077 [main] INFO  api.test.PetTests - %%%%%%%%  Pet Created %%%%%%%%
+16:52:23.544 [main] INFO  api.test.PetTests - %%%%%%%% Fetching PetByStatus %%%%%%%%
+16:52:25.754 [main] INFO  api.test.PetTests - %%%%%%%% PetByStatus Displayed %%%%%%%%
+16:52:25.775 [main] INFO  api.test.PetTests - %%%%%%%% Fetching Pet By Id %%%%%%%%
+16:52:26.365 [main] INFO  api.test.PetTests - %%%%%%%% Pet By Id Displayed %%%%%%%%
+16:52:26.852 [main] INFO  api.test.PetTests - %%%%%%%% Creating Pet %%%%%%%%
+16:52:27.736 [main] INFO  api.test.PetTests - %%%%%%%%  Pet Created %%%%%%%%
+16:52:27.743 [main] INFO  api.test.PetTests - **********  Updating Pet ***************
+17:02:39.066 [main] INFO  api.test.PetTests - %%%%%%%% Fetching PetByStatus %%%%%%%%
+17:02:41.004 [main] INFO  api.test.PetTests - %%%%%%%% PetByStatus Displayed %%%%%%%%
+17:02:41.023 [main] INFO  api.test.PetTests - %%%%%%%% Fetching Pet By Id %%%%%%%%
+17:02:41.596 [main] INFO  api.test.PetTests - %%%%%%%% Pet By Id Displayed %%%%%%%%
+17:02:42.066 [main] INFO  api.test.PetTests - %%%%%%%% Creating Pet %%%%%%%%
+17:02:42.889 [main] INFO  api.test.PetTests - %%%%%%%%  Pet Created %%%%%%%%
+17:02:42.897 [main] INFO  api.test.PetTests - **********  Updating Pet ***************

@@ -157,7 +157,7 @@ public class UserEndPointsFromPropertiesFile {
 		}
 		
 		public static Response createPet(Pet petPayload)
-		{       //get the value of 'post_url' from routes properties file stored in /resources 
+		{       //get the value of 'post_pet' from routes properties file stored in /resources 
 			String create_pet=getURL().getString("post_pet");
 						
 			Response response=given()
@@ -170,5 +170,19 @@ public class UserEndPointsFromPropertiesFile {
 			return response;
 		}
 		
+		public static Response updatePet(Pet petPayload, String idPet)
+		{       //get the value of 'post_url' from routes properties file stored in /resources 
+			String update_pet=getURL().getString("put_pet");
+						
+			Response response=given()
+				.contentType(ContentType.JSON)
+				.accept(ContentType.JSON)
+				.pathParam("id", idPet)
+				.body(petPayload)
+			.when()
+				.post(update_pet);
+				
+			return response;
+		}
 		
 }
