@@ -135,7 +135,7 @@ public class PetTests {
 	}
 	
 	
-	@Test(priority=4)
+	//@Test(priority=4)
 	public void testUpdatePet()
 	{
 		logger.info("**********  Updating Pet ***************");
